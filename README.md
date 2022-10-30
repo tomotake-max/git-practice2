@@ -2,4 +2,4 @@
 Git練習用
 rebase-branch-conflicttest
 リベース用
-stashpractice(tracked)
+stashpractice(2nd)
